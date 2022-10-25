@@ -11439,7 +11439,8 @@ html {
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
+  color: var(--bs-secondary);s
 }
 .masthead .masthead-avatar {
   width: 15rem;
