@@ -11307,7 +11307,7 @@ html {
 }
 
 .divider-custom {
-  margin: 1.25rem 0 1.5rem;
+  margin: 1.5rem 0 1.5rem;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -11452,7 +11452,7 @@ html {
   }
   .masthead .masthead-heading {
     font-size: 4rem;
-    line-height: 3.5rem;
+    line-height: 5rem;
   }
   .masthead .masthead-subheading {
     font-size: 1.5rem;
